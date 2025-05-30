@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/banner-powerbi-excel.gif" alt="Power BI | Excel | Dashboarding" style="max-width:100%;">
 </p>
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm [Bhim sen]</h1>
 <h3 align="center">Power BI Developer | Advanced Excel Specialist | Data Enthusiast</h3>
 
 <p align="center">
@@ -48,8 +48,8 @@
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 Email: youremail@example.com
+- 💼 [LinkedIn](www.linkedin.com/in/bhim-koli)
+- 📧 Email: bhimkoli411@gmail.com
 - 🌐 [Portfolio Website](https://your-portfolio.com)
 
 ---
