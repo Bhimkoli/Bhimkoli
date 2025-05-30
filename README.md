@@ -48,7 +48,7 @@
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/bhim-koli)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bhim-koli/)
 - 📧 Email: bhimkoli411@gmail.com
 - 🌐 [Portfolio Website](https://your-portfolio.com)
 
